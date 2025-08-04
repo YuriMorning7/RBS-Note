@@ -49,7 +49,6 @@ RBS Note is a simple and modern mobile note-taking application built using **Rea
 |--------------|------------------|----------------|
 | ![Login](./assets/screenshots/login.jpg) | ![Dashboard](./assets/screenshots/dashboard.jpg) | ![Modal](./assets/screenshots/modal.jpg) |
 
-> Replace the sample paths with your actual uploaded images (e.g., `assets/screenshots/...`)
 
 ---
 
